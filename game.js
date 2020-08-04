@@ -62,7 +62,7 @@ getNewQuestion = () => {
         // go to the end page
         localStorage.setItem('mostRecentScore', score);
         console.log('end of game!');
-        return window.location.assign('/end.html');
+        return window.location.assign('end.html');
     }
 
     questionCounter++;
