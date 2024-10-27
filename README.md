@@ -4,13 +4,13 @@ This app challenges users with trivia questions across various topics, offering 
 
 ## Features
 
-	•	Dynamic Trivia Questions: Questions are fetched from an external API ([Open Trivia DB](https://opentdb.com/)), providing a fresh experience each time.
-	•	Local Storage Integration: High scores are saved in the browser for easy access.
-	•	Responsive Design: Built with HTML, CSS, and JavaScript for an interactive user experience.
+- Dynamic Trivia Questions: Questions are fetched from an external API ([Open Trivia DB](https://opentdb.com/)), providing a fresh experience each time.
+- Local Storage Integration: High scores are saved in the browser for easy access.
+- Responsive Design: Built with HTML, CSS, and JavaScript for an interactive user experience.
 
 ## Technologies Used
 
-	•	HTML, CSS, JavaScript
+- HTML, CSS, JavaScript
 
 ## Getting Started
 
